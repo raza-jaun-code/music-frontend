@@ -1,8 +1,25 @@
-# React + Vite
+# Music Player App - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **React frontend** for the Music Player App, providing an intuitive interface to browse, search, and stream music tracks, as well as manage playlists and user profiles.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Browse and play music tracks seamlessly.
+- Create, edit, and manage playlists.
+- User login and registration.
+- Search and filter tracks by artist, album, or genre.
+- Responsive design for desktop and mobile devices.
+- Integration with the Node.js backend API.
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, React Router
+- **State Management:** Redux / Context API (adjust if used)
+- **Styling:** CSS, TailwindCSS, or SCSS
+- **HTTP Requests:** Axios or Fetch API
+
+---
